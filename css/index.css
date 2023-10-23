@@ -1,0 +1,189 @@
+.material-symbols-rounded {
+    color: white;
+    vertical-align: middle;
+    font-size: 8px;
+    padding-left:0%;
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 200,
+    'GRAD' 0,
+    'opsz' 8
+}
+
+.material-symbols-rounded{
+    color: white;
+    vertical-align: middle;
+    font-size: 8px;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 200,
+  'GRAD' 0,
+  'opsz' 8
+}
+
+.restaurant{
+    background-color: #474747;
+    padding-left:10%
+}
+
+.restaurant a{
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+}
+
+.restaurant ul{
+        display: inline-block;
+        margin-top:1%;
+        margin-bottom: 1%;
+        padding-left:0%;
+        vertical-align: middle;
+}
+
+.restaurant li{
+    display: inline-block;
+}
+
+.restaurant ul li a{
+    padding-right:15px;
+    font-family:sans-serif;
+    font-size: 13px;
+}
+
+.icon {
+    margin-left: 650px;
+}
+
+.icon-fb{
+    width:30px ;
+    height: 30px;
+    background-color:#636363;
+    border-radius: 50px;
+    font-size: 30px;
+    display: inline-block;
+    image-rendering: center;
+}
+
+.icon-fb img{
+    size: 5px;
+    image-rendering: center;
+    margin: auto;
+    display: block;
+    display: flex;
+  justify-content: center;
+    height: 10px;
+    width: 10px;
+    padding-top:5px ;
+}
+
+.icon-twitter{
+    width:30px ;
+    height: 30px;
+    background-color:#636363;
+    border-radius: 50px;
+    font-size: 30px;
+    display: inline-block;
+    
+}
+
+.icon-twitter img{
+    size: 10px;
+    image-rendering: center;
+    margin: auto;
+    display: block;
+    display: flex;
+  justify-content: center;
+    height: 20px;
+    width: 20px;
+    padding-top:5px ;
+    
+}
+
+.icon-ig{
+    width:30px ;
+    height: 30px;
+    background-color:#636363;
+    border-radius: 50px;
+    font-size: 30px;
+    display: inline-block;
+
+    
+}
+
+.icon-ig img{
+    size: 10px;
+    image-rendering: center;
+    margin: auto;
+    display: block;
+    display: flex;
+  justify-content: center;
+    height: 20px;
+    width: 20px;
+    padding-top:5px ;
+    
+}
+
+.icon-gh{
+    width:30px ;
+    height: 30px;
+    background-color:#636363;
+    border-radius: 50px;
+    font-size: 30px;
+    display: inline-block;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+  }
+  
+.Kuang{
+      background-color: rgb(220, 220, 220);
+  }
+.Kuang a{
+      text-decoration-line: none;
+      color: rgb(0, 0, 0);
+      vertical-align: middle;
+      width: 30px;
+      
+  }
+  
+.Kuang ul{
+      display: inline-block;
+      margin: 0%;
+      padding: 0%;
+      vertical-align: middle;
+      width: calc(100% - 900px);
+      text-align:center;
+  }
+  .Kuang li{
+      display: inline-block;
+      position: relative;
+      text-indent:80px
+      
+  }
+  
+  .Kuang img{
+      width: 300px;
+      padding-left: 10%;
+  }
+  
+  .kuang ul li a{
+      padding: 50px;
+     
+  }
+
+  .relative{
+    padding: 20px;
+    border-radius:  50px;
+  }
+
+.ooo{
+    background-color: rgb(147, 147, 147);
+    padding: 5px;
+    border-radius:  50px;
+}
+
+
