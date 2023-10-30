@@ -140,7 +140,8 @@
   }
   
 .Kuang{
-      background-color: rgb(220, 220, 220);
+      background-color: #F9F9F7;
+      padding: 20px;
   }
 .Kuang a{
       text-decoration-line: none;
@@ -176,7 +177,7 @@
   }
 
   .relative a{
-    background-color: rgb(220, 220, 220);
+    background-color: #F9F9F7;
     border-radius:  50px;
     padding: 10px;
     border-color: #474747;
@@ -186,7 +187,7 @@
 }
 
 .ooo{
-    background-color: rgb(220, 220, 220);
+    background-color: #F9F9F7;
     padding: 5px;
     border-radius:  50px;
 }
@@ -214,8 +215,8 @@
     padding-top: 5%;
     vertical-align: middle;
     position: absolute; 
-    left: 43%; 
-    top: 50%;
+    left: 44%; 
+    top: 60%;
     transform: translate(-3%, -0%)
 }
 
